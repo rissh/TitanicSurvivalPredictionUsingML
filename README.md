@@ -1,3 +1,5 @@
+<p align="center"><img width="" /></p>
+---------------------------------------------------------------------------------
 # Titanic Survival Prediction Using Machine Learning 🚢
 
 ## Description
