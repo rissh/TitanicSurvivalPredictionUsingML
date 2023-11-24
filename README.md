@@ -1,4 +1,4 @@
-# Titanic Survival Prediction Using Machine Learning🚢
+# Titanic Survival Prediction Using Machine Learning 🚢
 
 ## Description
 
@@ -10,26 +10,25 @@ This project predicts the survival status of Titanic passengers using machine le
 - **Programming Language:** Python
 - **Libraries Used:** Scikit-learn, Seaborn, Matplotlib, Pandas, Numpy, Tensorflow and Tflearn.
 
-
 ## Project Structure
 
-- **Dataset/:** Dataset files.
-- **notebook/:** Jupyter notebooks.
-- **LICENSE:** Project license.
-- **README.md:** Project README file.
+- 📂 **Dataset/:** Dataset files.
+- 📓 **notebook/:** Jupyter notebooks.
+- 📝 **LICENSE:** Project license.
+- 📄 **README.md:** Project README file.
 
 ## Next Steps
 
-1. **Hyperparameter Tuning:**
+1. ⚙️ **Hyperparameter Tuning:**
    Experiment with hyperparameter tuning to optimize the performance of the machine learning model. Adjust parameters such as learning rates, regularization, and model-specific parameters to achieve better results.
 
-2. **Ensemble Methods:**
+2. 🔄 **Ensemble Methods:**
    Explore ensemble methods to enhance the predictive power of the model. Consider techniques like Random Forests, Gradient Boosting, or stacking multiple models to improve overall accuracy.
 
-3. **Model Deployment:**
+3. 🚀 **Model Deployment:**
    If applicable, consider deploying the trained model for practical use. This step involves integrating the model into a real-world environment where it can make predictions on new data.
 
-4. **Contributions:**
+4. 🤝 **Contributions:**
    Contributions and suggestions are welcome. Fork the repository, create a new branch, and submit a pull request. Feel free to open issues for bug reports or feature requests. Together, we can improve and enhance the project.
 
 ## Acknowledgments
